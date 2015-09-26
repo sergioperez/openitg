@@ -355,6 +355,7 @@ ScreenManager.h SongManager.cpp SongManager.h \
 StatsManager.cpp StatsManager.h \
 ThemeManager.cpp ThemeManager.h \
 TournamentManager.cpp TournamentManager.h \
+DummyManager.cpp DummyManager.h \
 UnlockManager.cpp UnlockManager.h
 
 if !WITHOUT_NETWORKING

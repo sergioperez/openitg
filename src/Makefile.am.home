@@ -351,7 +351,8 @@ ScreenManager.h SongManager.cpp SongManager.h \
 StatsManager.cpp StatsManager.h \
 ThemeManager.cpp ThemeManager.h \
 TournamentManager.cpp TournamentManager.h \
-UnlockManager.cpp UnlockManager.h
+UnlockManager.cpp UnlockManager.h \
+DummyManager.cpp DummyManager.h
 
 if !WITHOUT_NETWORKING
 # Compile NetworkSyncManager even if networking is disabled; it'll stub itself.

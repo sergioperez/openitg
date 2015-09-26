@@ -395,6 +395,7 @@ StatsManager.cpp StatsManager.h \
 ThemeManager.cpp ThemeManager.h \
 UnlockManager.cpp UnlockManager.h \
 UserPackManager.cpp UserPackManager.h \
+DummyManager.h DummyManager.cpp \
 ProductInfo.cpp ProductInfo.h
 
 if !WITHOUT_NETWORKING
